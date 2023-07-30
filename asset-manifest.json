@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/munapay/static/css/main.0872ed18.css",
+    "main.js": "/munapay/static/js/main.b23963e0.js",
+    "static/js/787.9e6ded2a.chunk.js": "/munapay/static/js/787.9e6ded2a.chunk.js",
+    "static/media/our-service.jpg": "/munapay/static/media/our-service.214869850ab79cc748f1.jpg",
+    "static/media/pay2.jpg": "/munapay/static/media/pay2.d8c500f47b290b742ee0.jpg",
+    "static/media/contactimg.jpg": "/munapay/static/media/contactimg.72a9d3e7361d99438472.jpg",
+    "static/media/hero1.jpg": "/munapay/static/media/hero1.5bbf37c15b2ddec6f548.jpg",
+    "static/media/hero4.jpg": "/munapay/static/media/hero4.e8dcd1d3eb6b074246ce.jpg",
+    "index.html": "/munapay/index.html",
+    "main.0872ed18.css.map": "/munapay/static/css/main.0872ed18.css.map",
+    "main.b23963e0.js.map": "/munapay/static/js/main.b23963e0.js.map",
+    "787.9e6ded2a.chunk.js.map": "/munapay/static/js/787.9e6ded2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0872ed18.css",
+    "static/js/main.b23963e0.js"
+  ]
+}
